@@ -32,6 +32,8 @@ Abra o arquivo index.html no navegador.
 ✅ Aninhamento de seletores  
 ✅ Estilo reutilizável com mixins  
 
+---
+
 ## 🧠 Aprendizados
 
 ✅ Organização de estilos com SASS  
