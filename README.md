@@ -27,19 +27,17 @@ Abra o arquivo index.html no navegador.
 
 ## ✨ Funcionalidades
 
-✅ Uso de variáveis para cores e fontes
-✅ Estrutura de pastas modular (parciais e @use)
-✅ Aninhamento de seletores
-✅ Estilo reutilizável com mixins
-
----
+✅ Uso de variáveis para cores e fontes  
+✅ Estrutura de pastas modular (parciais e `@use`)  
+✅ Aninhamento de seletores  
+✅ Estilo reutilizável com mixins  
 
 ## 🧠 Aprendizados
 
-✅ Organização de estilos com SASS
-✅ Separação de responsabilidades (parciais)
-✅ Automatização do CSS
-✅ Manutenção facilitada em projetos maiores
+✅ Organização de estilos com SASS  
+✅ Separação de responsabilidades (parciais)  
+✅ Automatização do CSS  
+✅ Manutenção facilitada em projetos maiores  
 
 ---
 
